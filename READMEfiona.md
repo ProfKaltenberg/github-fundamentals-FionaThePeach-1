@@ -105,3 +105,17 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+# Have I done it??
+I think I did it, maybe.
+
+Okay for future refrence:
+* Must go to Documents>github>and then choose the right repository. Then you will be able to see what is on the github desktop. 
+* From there you must do a pull request 
+* It will shoot you over to Github website, and thennnnn you can submit?? (I think) 
+
+You must always have your Jyp books to the right file or else your gonna cause a headache for yourself Fiona 
+Hopefully this is right. I will make sure though. 
+
+Fiona out 
+
